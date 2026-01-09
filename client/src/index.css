@@ -1,0 +1,29 @@
+/* Root-level styles */
+html,
+body,
+#root {
+  height: 100%;
+}
+
+/* Smooth rendering */
+body {
+  margin: 0;
+  background-color: #f5f7fa;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Media defaults */
+img {
+  max-width: 100%;
+  display: block;
+}
+
+/* Utility helpers (optional) */
+.text-center {
+  text-align: center;
+}
+
+.full-width {
+  width: 100%;
+}

@@ -1,0 +1,47 @@
+.search-page {
+    min-height: 100vh;
+    padding: 24px;
+    background-color: #f5f7fa;
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 32px;
+  }
+
+  /* Center the upload area and reduce its width */
+  .upload-section {
+    max-width: 640px;
+    margin: 24px auto;
+    width: 90%;
+  }
+
+  .upload-section .ant-upload {
+    width: 100%;
+  }
+
+  .upload-section .ant-upload.ant-upload-drag {
+    padding: 36px 24px;
+    border-radius: 10px;
+  }
+
+  .upload-section .ant-upload-drag-icon {
+    font-size: 48px;
+    color: #1677ff;
+  }
+
+  .upload-section .ant-upload-text {
+    font-size: 18px;
+    font-weight: 500;
+  }
+
+  /* Center and constrain preview image */
+  .preview-section img {
+    display: block;
+    margin: 20px auto;
+    max-width: 280px;
+    max-height: 280px;
+    object-fit: contain;
+    border-radius: 8px;
+  }
+  
