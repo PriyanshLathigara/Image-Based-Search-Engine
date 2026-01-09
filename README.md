@@ -25,8 +25,10 @@ This project demonstrates end-to-end system design combining frontend, backend, 
 > ↓  
 > **AI Tag Generation** (Groq – Mock Vision)  
 > ↓  
-> **MongoDB Text Search + Ranking** > ↓  
-> **Relevant Products Returned** > ↓  
+> **MongoDB Text Search + Ranking**
+> ↓  
+> **Relevant Products Returned**
+> ↓  
 > **Results Rendered in UI**
 
 ---
