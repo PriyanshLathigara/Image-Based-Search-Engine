@@ -19,17 +19,17 @@ This project demonstrates end-to-end system design combining frontend, backend, 
 
 ## 🧠 How It Works (High-Level Flow)
 
-> **Image Upload** (Frontend)  
-> ↓  
-> **POST /api/search** (Backend)  
-> ↓  
-> **AI Tag Generation** (Groq – Mock Vision)  
-> ↓  
-> **MongoDB Text Search + Ranking**
-> ↓  
-> **Relevant Products Returned**
-> ↓  
-> **Results Rendered in UI**
+Image Upload (Frontend)
+↓
+POST /api/search (Backend)
+↓
+AI Tag Generation (Groq – Mock Vision)
+↓
+MongoDB Text Search + Ranking
+↓
+Relevant Products Returned
+↓
+Results Rendered in UI
 
 ---
 
